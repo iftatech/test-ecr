@@ -3,7 +3,7 @@ variable "profile" {
 }
 
 variable "application_name" {
-  description = "Name of your application"
+  description = "resumas-flask-server"
 }
 
 variable "application_description" {
